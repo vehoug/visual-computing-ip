@@ -1,0 +1,12 @@
+torch
+torchvision
+lightning
+numpy
+scipy
+matplotlib
+scikit-image
+jupyterlab
+ipykernel
+pillow
+tqdm
+pandas
